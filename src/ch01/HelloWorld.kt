@@ -1,4 +1,4 @@
-package lec01
+package ch01
 
 fun main() {
     println("Hello World kotlin");
