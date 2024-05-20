@@ -1,0 +1,4 @@
+tool > kotlin > kotlin REPL 누르면 콘솔에서 직접 테스트 가능
+
+https://play.kotlinlang.org 에서도 테스트 가능
+https://try.kotlinlangh.org
